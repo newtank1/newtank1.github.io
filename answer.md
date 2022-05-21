@@ -1,3 +1,7 @@
+最近参加了软院某个debug比赛，是给一个springboot项目进行debug。记录了一下找到的bug（应该全了）
+
+
+
 1.UserMapper.xml: wrong mapper namespace(DebugContest.DebugContest.Mapper.UserMapper)
 
 2.UserMapper.java:lack @Mapper on UserMapper
