@@ -6,13 +6,13 @@
 
 但通过winver命令取得的版本是
 
-![image-20220521151359992](assets\images\image-20220521151359992.png)
+![image-20220521151359992](assets/images/image-20220521151359992.png)
 
 
 
 然后检查了几个端口
 
-![image-20220521151438824](assets\images\image-20220521151438824.png)
+![image-20220521151438824](assets/images/image-20220521151438824.png)
 
 MySQL是自安装起就常年开着的。
 
