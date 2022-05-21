@@ -1,3 +1,8 @@
+---
+layout: post
+title: Debugger Contest
+---
+
 最近参加了软院某个debug比赛，是给一个springboot项目进行debug。记录了一下找到的bug（应该全了）
 
 
