@@ -39,3 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 [nmap](nmap.md)
 [debug](answer.md)
 
+<ul>  {% for post in site.posts %}    <li>      <a href="{{ post.url }}">{{ post.title }}</a>    </li>  {% endfor %} </ul>
