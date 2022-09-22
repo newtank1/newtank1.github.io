@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll搭建个人博客q
-date: 2016-10-15
+date: 2022-9-23
 tags: jekyll   
 ---
 
