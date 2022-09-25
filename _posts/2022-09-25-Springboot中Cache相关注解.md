@@ -47,7 +47,7 @@ spring:
 我们可以进行Bean配置来管理缓存。
 
 ```java
-	@Bean
+@Bean
     @SuppressWarnings("all")
     public CacheManager cacheManager(RedisConnectionFactory lettuceConnectionFactory) {
         RedisCacheConfiguration defaultCacheConfig = RedisCacheConfiguration.defaultCacheConfig();
@@ -109,7 +109,7 @@ public class DummyController {
 - keyGenerator：缓存的key生成器，和key参数不能同时出现，作用会在后面提到。
 - condition：触发缓存的条件，使用spEL表达式编写。
 
-### @CachePut
+#### @CachePut
 
 使用这个注解，该方法无论缓存是否命中都会执行，并且更新缓存。
 
